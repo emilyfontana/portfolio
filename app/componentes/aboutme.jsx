@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 import { infoList } from '@/public/assets/assets.js';
-import Contact from "./Contact";
+
 
 const AboutMe = () => {
     return (

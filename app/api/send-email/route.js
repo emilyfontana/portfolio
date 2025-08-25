@@ -26,7 +26,7 @@ export async function POST(req) {
              <p><strong>Mensagem:</strong><br/>${message}</p>`,
     });
 
-    // ✅ Sempre retorna JSON válido
+   
     return new Response(JSON.stringify({ message: "Mensagem enviada com sucesso!" }), { status: 200 });
   } catch (error) {
     console.error(error);
