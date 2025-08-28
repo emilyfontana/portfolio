@@ -6,8 +6,12 @@ Projeto desenvolvido com **React** e **Next.js** para apresentar meus projetos, 
 
 ## 📸 Preview
 
-![Preview do Portfólio]
+**Portfólio desktop🖥️**
 <img width="1917" height="940" alt="portfolio desktop" src="https://github.com/user-attachments/assets/6a373484-2914-4d09-9324-8c6362869d65" />
+
+---
+
+**Portfólio Mobile📱**
 
 <img width="477" height="942" alt="portfolio mobile" src="https://github.com/user-attachments/assets/9cabcad0-1fcd-4623-b9e1-b8c3178228bf" />
 
